@@ -107,12 +107,13 @@ var form = document.getElementById("form")
 var submit=document.getElementById("submit")
 
 document.addEventListener("DOMContentLoaded",function(){
-submit.addEventListener("click",function(event){
+form.addEventListener("submit",function(event){
 
-    event.preventDefault()
+    // event.preventDefault()
     received()
-  
+
 })
+  form.reset()
 })
 
 

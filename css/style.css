@@ -295,3 +295,35 @@
     transform: translate(50%,-50%);
     box-shadow: 0 5px 30px rgba(0,0,0,.30);
 }
+.contact{
+    position:absolute;
+    margin-top:20px;
+    color:white;
+    margin-left:500px;
+    font-weight: bold;
+}
+.name{
+    background: none;
+    border:2px solid white;
+    width:300px;
+    margin-right:20px;
+        
+}
+.email{
+    background: none;
+    border:2px solid white;
+    width:300px;
+        
+}
+::placeholder{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+.message{
+    background: none;
+    border:2px solid white;
+    height: 200px;
+    width:400px;
+    margin-bottom: 100px;
+}

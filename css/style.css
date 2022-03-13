@@ -383,3 +383,6 @@
 .socials{
    display: flex;
 }
+html{overflow-x:hidden;
+    
+}

@@ -69,3 +69,33 @@ $(".work8").mouseleave(function(){
 $(".work8").css('filter',filterval2)
    
 })
+$(".design-icon").mouseover(function(){
+    $(".testing").show()
+    $(".design-hide").hide()
+  })
+  $(".design-icon").mouseleave(function(){
+      $(".testing").hide()
+      $(".design-hide").show()
+    })
+    
+  
+  $(".development-icon").mouseover(function(){
+      $(".testing-2").show()
+      $(".development-hide").hide()
+  })
+  $(".development-icon").mouseleave(function(){
+      $(".testing-2").hide()
+      $(".development-hide").show()
+  })
+  
+    
+  
+  $(".product-icon").mouseover(function(){
+      $(".testing-3").show()
+      $(".product-hide").hide()
+  })
+  
+  $(".product-icon").mouseleave(function(){
+      $(".testing-3").hide()
+      $(".product-hide").show()
+  })

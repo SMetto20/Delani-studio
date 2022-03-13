@@ -99,3 +99,33 @@ $(".design-icon").mouseover(function(){
       $(".testing-3").hide()
       $(".product-hide").show()
   })
+
+var username = document.getElementById("name")
+var email = document.getElementById("email")
+var message= document.getElementById("message")
+var form = document.getElementById("form")
+var submit=document.getElementById("submit")
+
+document.addEventListener("DOMContentLoaded",function(e){
+form.addEventListener("click",function(e){
+
+   
+    e.preventDefault()
+    received()
+  
+}) 
+
+})
+
+
+function received (){
+    if(username.value === ''|| username.value === null) {
+        alert("invalid input please enter a valid user name")
+      if(email.value===''||email.value===null){
+          alert("invalid input please enter a valid email")
+      }
+      if (message.value==='' || messages.value===null){
+          alert("invalid input please write a message")
+      }
+   }
+}

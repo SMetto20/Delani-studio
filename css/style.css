@@ -327,3 +327,55 @@
     width:400px;
     margin-bottom: 100px;
 }
+.twitter{
+    height:50px;
+   width:50px;
+   margin-top:50px;
+   margin-left: 500px;
+}
+.dribble{
+
+   height:50px;
+   width:50px;
+   margin-top:50px
+}
+.facebook{
+   height:50px;
+   width:50px;
+   margin-top:50px
+}
+.plus{
+   height:50px;
+  width:50px;
+  margin-top:50px
+}
+.skype{
+
+  height:50px;
+  width:50px;
+  margin-top:50px
+}
+.stumble{
+  height:50px;
+  width:50px;
+  margin-top:50px
+}
+.behance{
+   height:50px;
+  width:50px;
+  margin-top:50px
+}
+.pinterest{
+
+  height:50px;
+  width:50px;
+  margin-top:50px
+}
+.flickr{
+  height:50px;
+  width:50px;
+  margin-top:50px
+}
+.socials{
+   display: flex;
+}

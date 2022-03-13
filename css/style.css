@@ -17,7 +17,10 @@
 .center {
     text-align: center;
 }
-
+.bigger{
+    font-size: 18px;
+    
+}
 .about {
     margin-top: 200px;
     margin-bottom: 100px;
@@ -33,6 +36,7 @@
 
 .what-we-do {
     margin-top: 300px;
+    text-align: center;
 }
 
 .design {

@@ -183,3 +183,115 @@
     width:200px;
     height:200px;
 }
+.goodlife{
+    position:absolute;
+    margin-top: 100px;
+    margin-left:300px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    font-weight:bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}
+
+
+.sunshine{
+    position: absolute;
+    margin-left:800px;
+    margin-top:100px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    text-align: center;
+    font-weight: bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}
+.baywatch{
+    position:absolute;
+    margin-left:1060px;
+    margin-top:100px;
+    font-weight: bold;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    display: none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}
+.ontario{
+    position: absolute;
+    margin-top: 100px;
+    margin-left:550px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    font-weight: bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+
+}
+
+.tranquil{
+    position:absolute;
+    margin-top: 100px;
+    margin-left:300px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    font-weight:bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}
+
+.icecream{
+    position: absolute;
+    margin-top: 100px;
+    margin-left:560px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    font-weight: bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+
+}
+.coffee{
+    position: absolute;
+    margin-left:810px;
+    margin-top:100px;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    text-align: center;
+    font-weight: bold;
+    display:none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}
+.burgers{
+    position:absolute;
+    margin-left:1060px;
+    margin-top:100px;
+    font-weight: bold;
+    border:2px;
+    background-color: white;
+    height: 140px;
+    width:150px;
+    display: none;
+    transform: translate(50%,-50%);
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+}

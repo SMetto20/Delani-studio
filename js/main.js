@@ -106,15 +106,13 @@ var message= document.getElementById("message")
 var form = document.getElementById("form")
 var submit=document.getElementById("submit")
 
-document.addEventListener("DOMContentLoaded",function(e){
-form.addEventListener("click",function(e){
+document.addEventListener("DOMContentLoaded",function(){
+submit.addEventListener("click",function(event){
 
-   
-    e.preventDefault()
+    event.preventDefault()
     received()
   
-}) 
-
+})
 })
 
 
@@ -127,5 +125,7 @@ function received (){
       if (message.value==='' || messages.value===null){
           alert("invalid input please write a message")
       }
+   } else{
+       alert("we have received your feed back we will be in touch soon")
    }
 }

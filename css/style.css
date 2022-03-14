@@ -22,20 +22,21 @@
     
 }
 .about {
-    margin-top: 200px;
+    margin-top: 50px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .service {
     position: absolute;
-    margin-top: 150px;
+    margin-top: 160px;
     color: white;
     margin-left: 400px;
     font-weight: bold;
 }
 
 .what-we-do {
-    margin-top: 300px;
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -104,7 +105,7 @@
     width: 100px;
     margin-top: 50px;
     cursor: pointer;
-    margin-left: 750px;
+    margin-left: 760px;
     margin-right: 50px;
     position: absolute;
 
@@ -114,13 +115,15 @@
     height: 100px;
     width: 100px;
     position: absolute;
-    margin-left: 1200px;
+    margin-left: 1160px;
     margin-top: 50px;
 
 }
 
 .portfolio {
-    margin-top: 200px;
+    margin-top: 250px;
+    font-size: 22px;
+    margin-bottom: 30px;
 }
 
 .portfolio-container {
@@ -309,14 +312,17 @@
 .name{
     background: none;
     border:2px solid white;
-    width:300px;
+    width:350px;
     margin-right:20px;
+    margin-top: 100px;
+    height: 20px;
         
 }
 .email{
     background: none;
     border:2px solid white;
-    width:300px;
+    width:350px;
+    height: 20px;
         
 }
 ::placeholder{
@@ -328,61 +334,96 @@
     background: none;
     border:2px solid white;
     height: 200px;
-    width:400px;
+    width:700px;
     margin-bottom: 100px;
 }
 .twitter{
     height:50px;
    width:50px;
    margin-top:50px;
-   margin-left: 500px;
+   margin-left: 550px;
+   margin-right: 20px;
 }
 .dribble{
 
    height:50px;
    width:50px;
-   margin-top:50px
+   margin-top:50px;
+   margin-right:20px;
 }
 .facebook{
    height:50px;
    width:50px;
-   margin-top:50px
+   margin-top:50px;
+   margin-right:20px;
 }
 .plus{
    height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+  margin-right:20px;
 }
 .skype{
 
   height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+  margin-right:20px;
 }
 .stumble{
   height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+  margin-right:20px;
 }
 .behance{
    height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+  margin-right:20px;
 }
 .pinterest{
 
   height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+  margin-right:20px;
 }
 .flickr{
   height:50px;
   width:50px;
-  margin-top:50px
+  margin-top:50px;
+
 }
 .socials{
    display: flex;
 }
 html{overflow-x:hidden;
     
+}
+.logo{
+    margin-top:40px;
+    margin-bottom: 35px;
+}
+.welcome{
+    margin-bottom: 35px;
+    font-size: 45px;
+}
+.studio{
+    margin-bottom: 20px;
+    font-size: 48px;
+}
+.mouse{
+    margin-top:290px;
+}
+.about-us{
+ margin-bottom: 30px;
+ font-size: 27px;
+}
+.service-heading{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top: 20px;
 }

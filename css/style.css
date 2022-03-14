@@ -3,7 +3,7 @@
     box-sizing: border-box;
     margin: 0%;
     padding: 0%;
-    text-align: center;
+    
 }
 
 .introduction {
@@ -96,7 +96,7 @@
     cursor: pointer;
     position: absolute;
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 400px;
 
 }
 
@@ -105,7 +105,7 @@
     width: 100px;
     margin-top: 50px;
     cursor: pointer;
-    margin-left: 400px;
+    margin-left: 760px;
     margin-right: 50px;
     position: absolute;
 
@@ -115,7 +115,7 @@
     height: 100px;
     width: 100px;
     position: absolute;
-    margin-left: 700px;
+    margin-left:1160px;
     margin-top: 50px;
 
 }

@@ -25,14 +25,15 @@ h1{
 }
 ```
 ### Dependancies
+project has no dependancies
 ### Installation
 1. Requirments
 2. Installation process
 
 ### Website
-[Website]()
+[Website](https://smetto20.github.io/Delani-studio/)
 ### License
-[MIT LICENSE]()
+[MIT LICENSE](https://github.com/SMetto20/Delani-studio/blob/main/LICENSE)
 
 ### About-author
 Linked in-[Sandra Metto](https://www.linkedin.com/in/sandra-metto-68500319a/)

@@ -26,14 +26,16 @@
     margin-top: 50px;
     margin-bottom: 100px;
     text-align: center;
+    margin-right: 100px;
 }
 
 .service {
     position: absolute;
     margin-top: 160px;
     color: white;
-    margin-left: 400px;
+    margin-left: 320px;
     font-weight: bold;
+    text-align: center;
 }
 
 .what-we-do {
